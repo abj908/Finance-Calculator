@@ -4,4 +4,4 @@ This project is for a bank that requires a function for financial calculations. 
 
 ## Completion Date
 
-This project was completed on 10/05/2018.
+This project was completed on 10/2018.
